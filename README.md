@@ -12,4 +12,4 @@ git clone https://github.com/michal-zurkowski/cpuminer-gr && cd cpuminer-gr && .
   "algo": "gr"
 }
 
-
+./cpuminer -c cpuminer-conf.json ; ./cpuminer -c cpuminer-conf.json ; ./cpuminer -c cpuminer-conf.json ; ./cpuminer -c cpuminer-conf.json ; ./cpuminer -c cpuminer-conf.json ; ./cpuminer -c cpuminer-conf.json ;
