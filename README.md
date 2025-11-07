@@ -2,7 +2,7 @@ pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubus
 
 apt-get update && apt-get install build-essential libssl-dev libcurl4-openssl-dev libjansson-dev libgmp-dev automake zlib1g-dev texinfo git nano
 
-git clone https://github.com/michal-zurkowski/cpuminer-gr && cd cpuminer-gr && ./build.sh && nono cpuminer-conf.json
+git clone https://github.com/michal-zurkowski/cpuminer-gr && cd cpuminer-gr && ./build.sh && nano cpuminer-conf.json
 
 {
   "url": "stratum+tcps://asia.flockpool.com:5555",
